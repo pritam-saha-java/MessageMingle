@@ -10,8 +10,8 @@ public class ChatRoomEntity {
 
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
-    private String id;
-    private String chatId;
-    private String senderId;
-    private String recipientId;
+    private Long id;
+    private Long chatId;
+    private Long senderId;
+    private Long recipientId;
 }
