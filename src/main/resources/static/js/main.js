@@ -67,7 +67,7 @@ function appendUserElement(user, connectedUsersList) {
     listItem.id = user.nickName;
 
     const userImage = document.createElement('img');
-    userImage.src = '../img/user_icon.png';
+    userImage.src = '../img/man.png';
     userImage.alt = user.fullName;
 
     const usernameSpan = document.createElement('span');
