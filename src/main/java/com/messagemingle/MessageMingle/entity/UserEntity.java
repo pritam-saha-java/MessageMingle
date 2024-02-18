@@ -10,7 +10,6 @@ import lombok.Data;
 public class UserEntity {
 
     @Id
-    @GeneratedValue(strategy = GenerationType.IDENTITY)
     private String nickName;
     private String fullName;
     private Status status;
