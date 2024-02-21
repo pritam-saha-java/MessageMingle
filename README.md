@@ -41,7 +41,7 @@ Before running the application, ensure you have the following installed:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/MessageMingle.git
+   git clone https://github.com/pritam-saha-java/MessageMingle.git
    ```
 
 2. Navigate to the project directory:
@@ -49,8 +49,6 @@ Before running the application, ensure you have the following installed:
    ```bash
    cd MessageMingle
    ```
-
-3. (Add any additional setup steps here)
 
 ## Configuration
 
